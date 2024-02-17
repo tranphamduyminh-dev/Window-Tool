@@ -13,9 +13,13 @@ Chạy File WindowTool.exe hoặc mã nguồn (.au3)
 _________________________________________________________
 
 // Thông tin tác giả: Trần Phạm Duy Minh
+<br>
    Facebook: https://facebook.com/duyminhhello
+<br>
    Zalo: Trần Phạm Duy Minh | 0859992120
+<br>
 // Buy me a Coffee
+<br>
    TRAN PHAM DUY MINH | MBANK | 0859992120
 
 _________________________________________________________
