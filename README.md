@@ -1,25 +1,33 @@
-_________________________________________________________
-Window Tool - Development by Duy Minh
-// Hướng dẫn sử dụng
-Chạy File WindowTool.exe hoặc mã nguồn (.au3)
-** Sử dụng công cụ Window Tool **
-1. Nhấp vào Finder Tool và thực hiện click vào cửa sổ cần điều chỉnh (Ví dụ: Notepad, Chrome,...)
-2. Điều chỉnh các chỉ số trong công cụ để phù hợp với mục đích sử dụng
-** Các thông số **
-+ Opacity : Điều chỉnh độ trong suốt của cửa sổ
-+ Place the window on top (Checkbox): Tùy chọn đặt cửa sổ lên trên cùng
-+ Window Size: Điều chỉnh kích thước cửa sổ (Thường được sử dụng ở một số phần mềm không cho phép điều chỉnh kích thước cửa sổ)
-+ Window Title: Điều chỉnh tiêu đề của cửa sổ
-_________________________________________________________
+# Window Tool
 
-// Thông tin tác giả: Trần Phạm Duy Minh
-<br>
-   Facebook: https://facebook.com/duyminhhello
-<br>
-   Zalo: Trần Phạm Duy Minh | 0859992120
-<br>
-// Buy me a Coffee
-<br>
-   TRAN PHAM DUY MINH | MBANK | 0859992120
+Window Tool là một công cụ phát triển nhằm hỗ trợ việc điều chỉnh các cửa sổ trên hệ điều hành Windows.
 
-_________________________________________________________
+## Hướng dẫn sử dụng
+
+Để sử dụng Window Tool, bạn có thể chạy tập tin WindowTool.exe hoặc mã nguồn (.au3).
+
+### Sử dụng Window Tool
+
+1. Nhấp vào Finder Tool và sau đó chọn cửa sổ mà bạn muốn điều chỉnh (ví dụ: Notepad, Chrome,...).
+   
+2. Điều chỉnh các tham số trong công cụ để phù hợp với nhu cầu cụ thể của bạn.
+
+### Các Tham Số Hiện Có
+
+- **Opacity:** Điều chỉnh mức độ trong suốt của cửa sổ.
+  
+- **Place the window on top (Checkbox):** Chọn để giữ cửa sổ trên cùng so với các cửa sổ khác.
+  
+- **Window Size:** Thay đổi kích thước của cửa sổ. Điều này đặc biệt hữu ích cho các ứng dụng có hạn chế về việc thay đổi kích thước.
+  
+- **Window Title:** Tùy chỉnh tiêu đề của cửa sổ.
+
+## Thông Tin Tác Giả
+
+**Tác Giả:** Trần Phạm Duy Minh
+
+## Hỗ Trợ
+
+Để được hỗ trợ hoặc có thắc mắc, vui lòng truy cập [trang hỗ trợ của tác giả](https://tranphamduyminh-dev.github.io/).
+
+[![Mua cho Tôi Một Ly Cà Phê](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://tranphamduyminh-dev.github.io/)
