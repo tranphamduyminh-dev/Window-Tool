@@ -27,8 +27,8 @@ Window Tool là một công cụ phát triển nhằm hỗ trợ việc điều 
 
 **Tác Giả:** Trần Phạm Duy Minh
 
-## Hỗ Trợ
+## Ủng Hộ
 
-Để được hỗ trợ hoặc có thắc mắc, vui lòng truy cập [trang hỗ trợ của tác giả](https://tranphamduyminh-dev.github.io/).
+Để ủng hộ tác giả , vui lòng truy cập [trang hỗ trợ của tác giả](https://tranphamduyminh-dev.github.io/).
 
 [![Mua cho Tôi Một Ly Cà Phê](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://tranphamduyminh-dev.github.io/)
