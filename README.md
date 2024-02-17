@@ -21,7 +21,8 @@ Window Tool là một công cụ phát triển nhằm hỗ trợ việc điều 
 - **Window Size:** Thay đổi kích thước của cửa sổ. Điều này đặc biệt hữu ích cho các ứng dụng có hạn chế về việc thay đổi kích thước.
   
 - **Window Title:** Tùy chỉnh tiêu đề của cửa sổ.
-
+## Demo
+![demo](https://i.imgur.com/4a1qfSP.png)
 ## Thông Tin Tác Giả
 
 **Tác Giả:** Trần Phạm Duy Minh
