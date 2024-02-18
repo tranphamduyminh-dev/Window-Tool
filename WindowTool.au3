@@ -9,7 +9,7 @@
 #include <EditConstants.au3>
 
 #Region
-	#AutoIt3Wrapper_Icon = ./Image/settings.ico
+	#AutoIt3Wrapper_Icon = ./settings.ico
 #EndRegion
 
 #Region ### START Koda GUI section ### Form=
@@ -41,9 +41,6 @@ Global $ButtonSetTitle = GUICtrlCreateButton("Set Title", 256, 184, 137, 25)
 GUICtrlCreateGroup("", -99, -99, 1, 1)
 GUISetState(@SW_SHOW)
 #EndRegion ### END Koda GUI section ###
-
-
-
 
 While 1
 	$nMsg = GUIGetMsg()
